@@ -1,0 +1,12 @@
+# This is Git's per-user configuration file.
+[core]
+# Please adapt and uncomment the following lines:
+	user = vankirkj
+	email = vankirk.josh@gmail.com
+[user]
+	name = Joshua VanKirk
+	email = vankirk.josh@gmail.com\n
+[color]
+	status = auto
+	diff = auto
+	branch = auto
